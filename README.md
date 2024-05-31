@@ -29,12 +29,14 @@ FitJourney is a fitness tracking application designed to help users monitor thei
 
 2. Backend Setup
     Navigate to server directory and install required dependencies
-    ```sh
+    ```bash
     cd FitJourney/server
     npm install
 
+
     Create a '.env' file based on the provided '.env.example' and configure your environment variables.
     Start the backend server
+
     ```sh
     npm start
 
